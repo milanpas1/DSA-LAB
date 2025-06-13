@@ -1,6 +1,18 @@
 # DSA-LAB
-This is for college purpose
-# Lab 1: insertion of array
-# Lab 2: Deletion of array
-# Lab 3: Tower of Hanoi
-# Lab 4: Push and Pop operation
+
+This repository contains lab programs related to **Data Structures and Algorithms (DSA)** for college coursework.
+
+## 🧪 Lab List
+
+### 🔹 Lab 1: Insertion in an Array
+Implementing insertion operation in a static array.
+
+### 🔹 Lab 2: Deletion from an Array
+Performing deletion operation on a static array.
+
+### 🔹 Lab 3: Tower of Hanoi
+Solving the Tower of Hanoi problem using recursion.
+
+### 🔹 Lab 4: Stack Operations (Push and Pop)
+Implementation of stack using array with push and pop operations.
+
